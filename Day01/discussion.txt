@@ -1,0 +1,217 @@
+Good Morning Everyone!!!
+------------------------
+
+www.python.org
+
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+Download the community edition (its free)
+
+
+Python
+-------
+
+Dotnet, Java
+
+1. Python is open source  -> 
+
+2. python relies on inbuilt functions
+
+3. interpreted
+
+4. UI - python / TK (tool Kit)
+
+5. Web Application - MVC = Model View Controller, REST API (Django, Flask. Pyramid)
+
+6. Mobile application - Kivy
+
+7. Testing - unit test, selenium, pytest
+
+8. webscrapping - beautifulsoup, scrappy
+
+9. ETL - Extraction Transformation and Loading - petl....	(eg: Informatica, Datastage....)
+
+10. DataScience
+	Data Analytics  -> 	Numpy, pandas, matplotlib
+	ML				 ->    Linear regression, ......
+	AI				
+
+
+
+
+
+perl -> 5.6 / 5.8 			=>	parrot (fully oops)  => special variables and functions
+
+
+
+Virtual Environment
+-------------------
+
+versions
+--------
+
+2.x and 3.x
+-----------
+
+3.10.x
+
+Editors
+-------
+dotnet => 	Visual Studio Code (CE)
+
+Javascript => sublime text
+
+Pycharm
+
+Notepad++
+
+Python
+------
+1. python SDK
+
+2. IDLE	 - Integrated Development Environment
+
+3. Shell - Interactive Environment
+
+
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python39
+
+
+Operators Overloaded
+---------------------
++ 	=> 	add numbers and concatenate strings
+
+* 	=>	multiply numbers and print a string n number of times
+
+
+MODULE 
+------
+ imp
+  
+function
+--------
+reload
+
+from imp import reload
+----------------------
+
+#!	=	Shebang			- used to specify the location of python executable (python.exe)
+
+
+#	- Comments in python
+
+string can be stored in either "double quotes" or 'single quotes'
+
+single line strings "" or ''
+
+multiple line strings are stored in 
+
+"""
+   multiple
+	  line
+        string
+"""
+
+python does not use paranthesis or brackets in
+
+1. if conditions
+2. loops
+3. functions
+4. classes
+
+
+def fun():
+	i = 10
+	while i >= 0:
+ 		print(i)
+		i += 1
+		if i < 4:
+			break
+
+print("hello")
+
+Python code works on indentation
+
+Python Data Types
+-----------------
+1. Numbers
+	a. integers
+	b. float
+	c. complex Numbers
+
+2. String
+
+3. Boolean
+
+-----------------------------------------------------------
+OR operator
+
+5 - 0101
+3 - 0011
+------------
+	0111
+
+5 - 0101 << 1
+    1010
+
+
+8 - 1000 << 1
+    10000  - 16
+
+5 - 0101 << 2
+    10100  - 20
+
+
+loops and control structures
+----------------------------
+control structures
+------------------
+1. if codition
+
+
+loops
+-----
+a. for loop
+b. while loop
+
+a = input(prompt_message)
+
+for loop  => foreach loop
+
+range
+------
+=range(start_num, end_num-1, increment_by) 
+
+increment_by = 1
+
+
+print
+-----
+print(data, sep="", end="\n")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
