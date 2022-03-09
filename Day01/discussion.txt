@@ -191,49 +191,62 @@ print
 print(data, sep="", end="\n")
 
 
------------------------------------------------------------------
-1.
+problems
+--------
 
-1
-23
-456
-78910
-
-2.
-1
-22
-333
-4444
-55555
-
-3.
-
-     1
-    1 2
-   1 2 3
-  1 2 3 4
- 1 2 3 4 5
-  1 2 3 4
-   1 2 3
-    1 2
-     1
-
-4. pascals traingle
-
-       1
-      1 1
-     1 2 1
-    1 3 3 1
-   1 4 6 4 1
+print the pattern
 
 
-5.
-1! = 1
-2! = 2
-145! = 1! + 4! + 5!
-       1  + 24 + 120
-       145
-?
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+
+print all the prime numbers between 150 and 50 and also print the count of it
+
+Strings
+-------
+1. strings are immutable
+2. 
+
+
+class ABC
+{
+  pvt_var: x;
+  x = 100
+  setter_method
+  getter_method
+}
+
+
+abc = ABC()
+
+csv file
+--------
+"p101, pepsi, baverage, 500 ml bootle, 45.00"
+"p102, coke, baverage, 300 ml can, 60.00"
+"p103, thums_up, baverage, 2 ltr bootle, 110.00"
+"p104, maaza, baverage, 1.5 ltr bootle, 85.00"
+"p105, sprite, baverage, 150 ml bootle, 15.00"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
