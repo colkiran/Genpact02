@@ -22,6 +22,67 @@ Lists
 2. memory allocation is not contigious
 3. lists are ordered collection
 4. lists are subscriptable
+5. list is enclosed in []
+6. lists are mutable
+ 
+
+
+l2 = [1, 2, 3, 4, 5, [11, 22, 33, 44, 55], 7, 8, 9]
+print(l2)
+
+Shallow Copy
+------------
+l2 = l1
+
+it not only shares the data from the list l1 to l2 but also shares the address from l1 to l2
+
+
+Deep Copy
+---------
+l4 = l3.copy()
+
+it only shares the data not the address
+
+
+Dictionaries
+------------
+1. also called as associative arrays
+2. dictionaries will store data in the form of keys and values
+	a. keys are like indexes in arrays, advantage is keys are user defined
+	b. values are the data that has to be stored
+3. all keys of a dictionary is unique
+4. dictionaries are mutable
+5. ordered collection
+6. dictionaries are enclosed in {key and value}
+
+d = {'a': 1, 'b': 2, 'c': 3}
+
+copy
+----
+
+d1 = d2
+d1 = d2.copy
+
+
+d1 = d2.copy
+from copy import deepcopy
+d1 = deepcopy(d2)
+
+Tuples
+------
+1. tuples are immutable lists
+2. they are ordered collection
+3. they are subscriptable
+4. they are enclosed in ()
+
+
+Sets
+----
+1. elements of a set is unique
+2. sets are unordered collection
+3. sets cannot be subscripted
+4. sets are mutable
+5. sets are enclosed in {}
 
 
 
