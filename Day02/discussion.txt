@@ -1,0 +1,30 @@
+Data Structures
+---------------
+1. list
+2. dictionary
+3. tuple
+4. set
+
+
+list
+----
+list is the same as an array
+
+array?
+------
+1. collection of homogenous data
+2. memory allocation is contigious
+
+
+Lists
+-----
+1. list are collection of hetrogenous data
+2. memory allocation is not contigious
+3. lists are ordered collection
+4. lists are subscriptable
+
+
+
+
+
+
