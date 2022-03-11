@@ -1,0 +1,46 @@
+1. list
+2. dictionaries
+3. tuples
+4. sets
+
+functions
+---------
+
+1. find the factorial of a number using recursive call
+
+2. find fibanocci series using recursive call
+
+lambdas
+-------
+anonymous functions
+-------------------
+
+expression_result = lambda arg1, arg2, arg3: Expression
+
+scope of a variable
+-------------------
+1. local scope
+2. global scope
+3. nonlocal scope
+
+
+OOPS
+----
+Object Oriented Programming
+
+1. inheritance
+2. encapsulation
+3. polymorphism
+4. abstraction
+
+
+
+
+
+
+
+
+
+
+
+
