@@ -1,0 +1,88 @@
+Variables
+---------
+1. global variables
+2. instance variables
+3. class variables
+
+
+Overload these operators 
+------------------------
+1. add
+2. subtract
+3. muliply
+4. division
+5. floor division
+
+difference between private and protected variables
+--------------------------------------------------
+__private_variables
+
+_protected_variables
+
+
+Abstract Class
+--------------
+
+
+File Handling
+-------------
+1. Text file
+
+
+2. Excel file
+3. csv file
+4. XML
+5. Json
+
+
+open - open a file(text files)
+
+Data in a text file stored in ASCII format
+
+word, excel, pdf, powerpoint =>  data is encrypted
+
+1. Read  - only read the contents of the file
+
+			read   		-> the entire contents of the file | read(no_of_bytes)
+			readline	-> one line at a time | read(no_of_bytes)
+			readlines  -> read all the lines in the file and store it in a list | (no_of_bytes)
+
+
+2. Write
+3. Append
+
+filehandle = open(filename, mode)
+
+seek
+----
+seek -> used to move the file handle from one location to another
+
+seek(offset, whence)
+	
+	1. offset - no of bytes to be skipped
+	2. whence - start point of the file handle
+			
+			0 - BOF		- Begning of file
+			1 - CP		- Current position
+			2 - EOF		- End of file
+
+
+tell
+----
+position of the file handle = tell()
+
+
+1. FL.seek(150, 0)
+2. FL.seek(200, 1)
+3. FL.seek(-75, 1)
+4. FL.seek(200, 2)
+5. FL.seek(-300, 2)
+6. FL.seek(-50, 0)
+
+Excel file 		->	pip install openpyxl
+
+Mysql 			->  pip install pymysql
+
+
+
+
